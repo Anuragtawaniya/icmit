@@ -1,5 +1,8 @@
 body,html{
     font-family: 'Poppins', sans-serif;
+    max-width: 100%;
+    overflow-x: hidden;
+
 }
 .reg{
     padding:20px 30px;
